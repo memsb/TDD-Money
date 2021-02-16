@@ -1,5 +1,5 @@
 import unittest
-from dollar import Money, Bank
+from money import Money, Bank
 
 
 class TestMoney(unittest.TestCase):
